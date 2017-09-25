@@ -1,0 +1,16 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>Cat Inspector</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+  <button ion-button block icon-left (click)="onInspect()">
+    <ion-icon name="camera"></ion-icon>
+    Inspect
+  </button>
+
+  <img *ngIf="base64Img" [src]="base64Img" id="image-preview">
+
+  <h2 id="result-comment">{{comment}}</h2>
+</ion-content>

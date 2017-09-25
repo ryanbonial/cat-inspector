@@ -1,0 +1,8 @@
+{
+  "name": "cat-inspector",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
