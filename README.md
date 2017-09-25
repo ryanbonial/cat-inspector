@@ -1,6 +1,8 @@
-# Cat Inspector 🐱🕵
+# Cat Inspector
+![Cat Inspector](https://github.com/ryanbonial/cat-inspector/blob/master/resources/android/icon/drawable-mdpi-icon.png?raw=true)
+
 ## Cat or not cat?
-Take a picture and find out...
+Think you've found a cat? Take a picture and find out...
 
 ![Cat Found](https://raw.githubusercontent.com/ryanbonial/cat-inspector/master/docs/cat_found_sm.png "Cat Found!")
 ![Cat Not Found :(](https://raw.githubusercontent.com/ryanbonial/cat-inspector/master/docs/cat_not_found_sm.png "Cat Not Found :(")
